@@ -18,7 +18,7 @@ O Ultimate Performance Optimizer é um userscript (pequeno programa que roda no 
 
 ### Benefícios que você ganha:
 
-- **95% de melhoria** na velocidade de navegação
+- **55% de melhoria** na velocidade de navegação
 - **40% mais duração** da bateria do dispositivo
 - **50% economia** de dados móveis
 - **Experiência suave** em sites pesados
